@@ -502,6 +502,11 @@ plt.title(
 plt.show()
 •	The graph provides a visual comparison of model errors. 
 •	The model with the lowest RMSE performs best according to this metric.
+
+## Diagram
+
+<img width="1484" height="957" alt="image" src="https://github.com/user-attachments/assets/3026b11c-7277-46ed-86e3-8137bdbf5d1a" />
+
 ## CONCLUSION
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
 
